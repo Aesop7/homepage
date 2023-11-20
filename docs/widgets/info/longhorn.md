@@ -30,8 +30,8 @@ The Longhorn URL and credentials are stored in the `providers` section of the `s
 
 ```yaml
 providers:
-    longhorn:
-        username: "longhorn-username" # optional
-        password: "very-secret-longhorn-password" # optional
-        url: https://longhorn.aesop.network
+  longhorn:
+    username: "longhorn-username" # optional
+    password: "very-secret-longhorn-password" # optional
+    url: https://longhorn.aesop.network
 ```
